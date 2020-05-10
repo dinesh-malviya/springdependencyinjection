@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import com.malviyad.springdependencyinjection.controller.TestController;
+import com.malviyad.springdependencyinjection.controllers.TestController;
 
 @SpringBootApplication
 public class SpringdependencyinjectionApplication {

@@ -1,4 +1,4 @@
-package com.malviyad.springdependencyinjection.controller;
+package com.malviyad.springdependencyinjection.controllers;
 
 import org.springframework.stereotype.Controller;
 
